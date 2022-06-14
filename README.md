@@ -6,4 +6,4 @@
 
 ## Sentry
 - [마크다운](tech/sentry.md) 
-- [슬라이드](tech/sentry/index.html)
+- [슬라이드](https://harry-shopl.github.io/md-slides/tech/sentry/)
